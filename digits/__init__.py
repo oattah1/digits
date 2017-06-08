@@ -1,1 +1,1 @@
-from project import example
+from digits import example
